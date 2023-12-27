@@ -5,5 +5,6 @@
 Description: Useful tools for when you need to conduct pen-testing and do not have access to pre-made tools in Kali Linux. 
 
 ### Contents:
+- TCP Client
 - UDP Client
-- TCP Client/Server
+- TCP Server
