@@ -2,13 +2,16 @@
 
 ### A collection of my personal offensive security work and examples from BlackHat Python 2nd Edition by Justin Seitz & Tim Arnold.
 
-Description: Useful tools for offensive security, when you need to conduct pen-testing and do not have access to pre-made tools in Kali Linux. This examples in this library build upon taught examples in the book Black Hat Python with notes and additional documentation. 
+Description: Useful tools for offensive security, when you need to conduct pen-testing and do not have access to pre-made tools in Kali Linux. The examples in this library build upon taught examples in the book Black Hat Python with notes and additional documentation. 
 
-## Contents:
-Chapter 1: Low Level Socket Programming
+### Index:
+## Chapter 1: Low Level Socket Programming
 - TCP Client
 - UDP Client
 - TCP Server
+
+Notes: In penetration testing the need to create a TCP/UDP client for testing purposes can be helpful when conducting TCP/IP protocol vunerabiltiy attacks. 
+
 #### Official Documentation: 
 https://docs.python.org/3/howto/sockets.html
 #### Helpful Documentation: 
