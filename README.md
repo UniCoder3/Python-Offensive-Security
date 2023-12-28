@@ -6,11 +6,10 @@ Description: Useful tools for offensive security, when you need to conduct pen-t
 
 ### Index:
 ## Chapter 1: Low Level Socket Programming
-- TCP Client
-- UDP Client
-- TCP Server
-
-Notes: In penetration testing the need to create a TCP/UDP client for testing purposes can be helpful when conducting TCP/IP protocol vunerabiltiy attacks. 
+Description: In penetration testing the need to create a TCP/UDP client for testing purposes can be helpful when conducting TCP/IP protocol vunerabiltiy attacks.
+- TCP Client.py
+- UDP Client.py
+- TCP Server.py
 
 #### Official Documentation: 
 https://docs.python.org/3/howto/sockets.html
