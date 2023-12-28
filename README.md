@@ -1,15 +1,15 @@
-# Python Security Tools Suite
+# Python Offensive Security Tools Suite
 
-## A collection of my working examples from BlackHat Python 2nd Edition by Justin Seitz & Tim Arnold.
+### A collection of my personal offensive security work and examples from BlackHat Python 2nd Edition by Justin Seitz & Tim Arnold.
 
-Description: Useful tools for offensive security, when you need to conduct pen-testing and do not have access to pre-made tools in Kali Linux. 
+Description: Useful tools for offensive security, when you need to conduct pen-testing and do not have access to pre-made tools in Kali Linux. This examples in this library build upon taught examples in the book Black Hat Python with notes and additional documentation. 
 
-### Contents:
+## Contents:
 Chapter 1: Low Level Socket Programming
 - TCP Client
 - UDP Client
 - TCP Server
-# Official Documentation: 
+#### Official Documentation: 
 https://docs.python.org/3/howto/sockets.html
-# Helpful Documentation: 
+#### Helpful Documentation: 
 https://www.geeksforgeeks.org/socket-programming-python/
