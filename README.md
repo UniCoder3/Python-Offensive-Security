@@ -9,5 +9,7 @@ Chapter 1: Low Level Socket Programming
 - TCP Client
 - UDP Client
 - TCP Server
-Official Documentation: https://docs.python.org/3/howto/sockets.html
-Helpful Documentation: https://www.geeksforgeeks.org/socket-programming-python/
+# Official Documentation: 
+https://docs.python.org/3/howto/sockets.html
+# Helpful Documentation: 
+https://www.geeksforgeeks.org/socket-programming-python/
